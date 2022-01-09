@@ -67,6 +67,11 @@ body {
     background-position: center;
   }
   
+  .menu-img {
+    background-image: url("../img/coffee-background.jpg");
+    background-size: cover;
+    background-position: center;
+  }
   /* MARKETING CONTENT
   -------------------------------------------------- */
   
