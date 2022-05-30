@@ -57,7 +57,7 @@ It will be an essential requirement that the repository(s) have a complete Readm
 ## Demo
 [↑ Table of contents](#table-of-contents)
 
-
+GitHub Pages: [Restaurant Menu](https://beacouchoud.github.io/CartaRestaurante/index.html)
 
 https://user-images.githubusercontent.com/34965770/171004928-4dd05654-9bf7-4669-9920-01d1459fcee7.mp4
 
